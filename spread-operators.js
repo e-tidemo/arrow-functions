@@ -1,8 +1,3 @@
-/**
- * To run this file in Gitpod, use the 
- * command node the-spread-operator.js in the terminal
- */
-
 // No spread operator
 let arr1 = [1, 2, 3]
 let arr2 = arr1;
